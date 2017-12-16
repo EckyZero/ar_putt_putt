@@ -3,6 +3,11 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+ar_putt_putt/[Bb]uilds/
+ar_putt_putt/[Bb]uild/
+ar_putt_putt/[Oo]bj/
+ar_putt_putt/[Ll]ibrary/
+
 /Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
